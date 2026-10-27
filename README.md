@@ -16,7 +16,7 @@ the main model.
 ## Install
 
 ```sh
-npx skills add random-react-dev/task-router --skill task-router -g
+npx skills add skills-book/task-router --skill task-router -g
 ```
 
 ## Use
